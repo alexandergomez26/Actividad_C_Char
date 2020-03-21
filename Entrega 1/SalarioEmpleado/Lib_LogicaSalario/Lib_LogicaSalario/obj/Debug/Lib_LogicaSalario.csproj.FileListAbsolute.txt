@@ -1,0 +1,24 @@
+C:\Users\usuario\source\repos\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.dll
+C:\Users\usuario\source\repos\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.pdb
+C:\Users\usuario\source\repos\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.dll
+C:\Users\usuario\source\repos\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.csprojAssemblyReference.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Sueldo Empleado\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Sueldo Empleado\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Sueldo Empleado\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.csprojAssemblyReference.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Sueldo Empleado\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Sueldo Empleado\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Sueldo Empleado\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.csprojAssemblyReference.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.pdb

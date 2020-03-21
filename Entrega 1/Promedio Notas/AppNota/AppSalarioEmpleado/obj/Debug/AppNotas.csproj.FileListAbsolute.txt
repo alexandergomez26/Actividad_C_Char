@@ -1,0 +1,13 @@
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\AppSalarioEmpleado.exe.config
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\AppSalarioEmpleado.exe
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\AppSalarioEmpleado.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppNotas.csprojAssemblyReference.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.Form1.resources
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.Properties.Resources.resources
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppNotas.csproj.GenerateResource.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppNotas.csproj.CopyComplete
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.exe
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.pdb

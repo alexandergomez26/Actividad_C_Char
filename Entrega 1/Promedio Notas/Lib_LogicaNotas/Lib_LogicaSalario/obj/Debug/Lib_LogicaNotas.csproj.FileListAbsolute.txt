@@ -1,0 +1,6 @@
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\Lib_LogicaSalario\Lib_LogicaSalario\bin\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaNotas.csprojAssemblyReference.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaNotas.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Ejemplo\Promedio Notas\Lib_LogicaSalario\Lib_LogicaSalario\obj\Debug\Lib_LogicaSalario.pdb
