@@ -63,3 +63,16 @@ C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmplead
 C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.csproj.CopyComplete
 C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.exe
 C:\Users\jose.gomez.lopez\Desktop\Sena\Proyectos C-char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.pdb
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\AppSalarioEmpleado.exe.config
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\AppSalarioEmpleado.exe
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\AppSalarioEmpleado.pdb
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\Lib_LogicaSalario.dll
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\bin\Debug\Lib_LogicaSalario.pdb
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.csprojAssemblyReference.cache
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.Form1.resources
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.Properties.Resources.resources
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.csproj.GenerateResource.cache
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.csproj.CopyComplete
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.exe
+C:\Users\jose.gomez.lopez\Desktop\Actividad_C_Char\Entrega 1\SalarioEmpleado\AppSalarioEmpleado\AppSalarioEmpleado\obj\Debug\AppSalarioEmpleado.pdb

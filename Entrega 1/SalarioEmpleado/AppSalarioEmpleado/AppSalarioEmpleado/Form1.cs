@@ -35,7 +35,7 @@ namespace AppSalarioEmpleado
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // instanciar la lógica de negocio
+            // Instanciar la lógica del negocio
 
             Salario objeto1 = new Salario();
             int sueldo, dias;
